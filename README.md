@@ -8,17 +8,17 @@
 - 🌱 I’m currently learning PHP
 - 💬 Ask me about [issues](https://github.com/andrewscarlos/andrewscarlos/issues)
 
-![Dalton github stats](https://github-readme-stats.vercel.app/api?username=andrewscarlos&theme=dark&show_icons=true)
+![andrewscarlos github stats](https://github-readme-stats.vercel.app/api?username=andrewscarlos&theme=dark&show_icons=true)
 
 
 
 <!--
-**daltonfontes/daltonfontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andrewscarlos/andrewscarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-* 🔭 I’m currently working on Hat Trick Comunicação
-- 🌱 I’m currently learning PHP
+* 🔭 I’m currently working on Pontte
+- 🌱 I’m currently learning ReactJs, NodeJs and Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
