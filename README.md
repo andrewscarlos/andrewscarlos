@@ -4,8 +4,8 @@
 
 ##### IT Student
 
-- 🔭 I’m currently working on Hat Trick Comunicação
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on Pontte.
+- 🌱 I’m currently learning ReactJs, NodeJs and Python.
 - 💬 Ask me about [issues](https://github.com/andrewscarlos/andrewscarlos/issues)
 
 ![andrewscarlos github stats](https://github-readme-stats.vercel.app/api?username=andrewscarlos&theme=dark&show_icons=true)
